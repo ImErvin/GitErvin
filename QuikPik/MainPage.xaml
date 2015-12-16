@@ -37,7 +37,7 @@
         <Rectangle Fill="#FFE8FF00" 
                    HorizontalAlignment="Left" 
                    Height="100" 
-                   Margin="20,80,0,0" 
+                   Margin="20,80,0,-1" 
                    Stroke="Black" 
                    VerticalAlignment="Top" 
                    Width="100"/>
